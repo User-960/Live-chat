@@ -13,6 +13,6 @@ datasource db {
 model Chat {
   id Int @default(autoincrement()) @id
   username String
-  message String
+  text String
   createdAt DateTime @default(now())
 }
