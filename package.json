@@ -1,8 +1,11 @@
 {
-  "name": "server",
+  "name": "live-chat",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": {
+    "name": "Ivan Volodin",
+    "email": "ivanvolodin950@gmail.com"
+  },
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
