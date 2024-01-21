@@ -22,9 +22,21 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+# Live-chat
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+The main purpose of the project is to write the project on stack: Nest.js, Prisma, TypeScript, Socket.io, ejs. The project itself is a chat in which the user can write messages.
+
+## What is used:
+
+- Programming languages: TypeScript;
+- Frameworks: Nest.js;
+- Libraries: Prisma, Socket.io, ejs;
+
+## To clone repository
+
+```shell
+https://gitlab.com/User-950/live-chat.git
+```
 
 ## Installation
 
@@ -57,17 +69,3 @@ $ yarn run test:e2e
 # test coverage
 $ yarn run test:cov
 ```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
