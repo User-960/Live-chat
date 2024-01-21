@@ -35,7 +35,7 @@ The main purpose of the project is to write the project on stack: Nest.js, Prism
 ## To clone repository
 
 ```shell
-https://gitlab.com/User-950/live-chat.git
+https://github.com/User-960/Live-chat.git
 ```
 
 ## Installation
